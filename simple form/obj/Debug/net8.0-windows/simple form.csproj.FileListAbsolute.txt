@@ -1,0 +1,16 @@
+C:\Users\km\Desktop\simple form\simple form\bin\Debug\net8.0-windows\simple form.exe
+C:\Users\km\Desktop\simple form\simple form\bin\Debug\net8.0-windows\simple form.deps.json
+C:\Users\km\Desktop\simple form\simple form\bin\Debug\net8.0-windows\simple form.runtimeconfig.json
+C:\Users\km\Desktop\simple form\simple form\bin\Debug\net8.0-windows\simple form.dll
+C:\Users\km\Desktop\simple form\simple form\bin\Debug\net8.0-windows\simple form.pdb
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple_form.Form1.resources
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.csproj.GenerateResource.cache
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.AssemblyInfoInputs.cache
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.AssemblyInfo.cs
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.csproj.CoreCompileInputs.cache
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.dll
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\refint\simple form.dll
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.pdb
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\simple form.genruntimeconfig.cache
+C:\Users\km\Desktop\simple form\simple form\obj\Debug\net8.0-windows\ref\simple form.dll
